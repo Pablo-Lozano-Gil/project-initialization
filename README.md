@@ -257,7 +257,7 @@ Apache License 2.0 - See [LICENSE](LICENSE) file for details.
 
 - Built with [Agent Skills](https://agentskills.io) open standard
 - Compatible with [OpenCode](https://opencode.ai)
-- Inspired by modern AI-assisted development practices
+- Inspired by modern AI-assisted development practices and [Prowler](https://github.com/prowler-cloud/prowler/tree/master)
 - Community-driven skill development
 
 ---
