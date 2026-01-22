@@ -14,13 +14,14 @@ Use these skills for detailed patterns on-demand:
 
 | Skill | Description | URL |
 | ------- | ----------- | ----- |
-| `pytest` | Fixtures, mocking, markers, parametrize | [SKILL.md](.agents/skills/pytest/SKILL.md) |
+| `pytest` | Fixtures, mocking, markers, parametrize | [SKILL.md](.agent/skills/pytest/SKILL.md) |
 
 ### Project-Specific Skills
 
 | Skill | Description | URL |
 | ------- | ------------- | ----- |
-| `skill-creator` | Create new AI agent skills | [SKILL.md](.agents/skills/skill-creator/SKILL.md) |
+| `skill-creator` | Create new AI agent skills | [SKILL.md](.agent/skills/skill-creator/SKILL.md) |
+| `product-discovery` | Research and analyze product ideas | [SKILL.md](.agent/skills/product-discovery/SKILL.md) |
 
 ### Auto-invoke Skills
 
